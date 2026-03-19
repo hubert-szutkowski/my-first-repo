@@ -1,5 +1,6 @@
+
 name: John Doe
 adress: ulica numer
-blood pressure: 120/80mmHg
+blood pressure: 140/95mmHg
 HR: 70 BPM
 Notes: regula checkup 
