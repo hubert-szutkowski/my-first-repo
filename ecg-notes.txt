@@ -1,0 +1,7 @@
+ ECG Signal Processing
+
+ 
+## Key components
+- P wave: atrial depolarization
+- QRS complex: ventricular depolarization
+- T wave: ventricular repolarization
